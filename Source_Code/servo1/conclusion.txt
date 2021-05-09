@@ -1,0 +1,2 @@
+El código está diseñado para girar el servo motor en ambos sentidos
+disminuyendo la frecuencia con la que lo hace en cada pasada por el bucle.

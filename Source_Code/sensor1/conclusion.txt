@@ -1,0 +1,5 @@
+- El pin 'echo' toma la señal de entrada cuando detecta un objeto a 20 cm del
+sensor.
+
+- El trigger toma la señal de salida y la envía al pin del LED para que este
+se ilumine cuando se detecte un objeto a 20 cm de distancia.
